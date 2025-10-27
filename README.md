@@ -73,16 +73,19 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-#### 🔹 [NeuraPix – AI Image Generator](https://github.com/rohitiitbh/NeuraPix)
-MERN + Hugging Face API-based AI image generator with “Surprise Me” and search gallery features.
+### 🧠 NeuraPix AI Image Generator  
+An AI-powered image generator that creates high-quality visuals from text prompts using advanced deep learning models.  
+- 🔗 **Live Demo:** [neurapix-frontend-3.onrender.com](https://neurapix-frontend-3.onrender.com/)  
+- 💻 **GitHub Repository:** [rohit02k5/NeuraPix-AI-IMAGE-GENERATOR-](https://github.com/rohit02k5/NeuraPix-AI-IMAGE-GENERATOR-)
 
-#### 🔹 [Quantum Chat – AI Workspace](https://github.com/rohitiitbh/Quantum-Chat)
-Built using MERN, Gemini API, and Plotly.js for AI-based summarization, sentiment analysis, and data visualization.
+---
 
-#### 🔹 [AR-Based Tool Condition Monitoring (IIT Bombay)](https://github.com/rohitiitbh/AR-Tool-Monitoring)
-Developed a real-time AR-based HMI system integrating IoT sensors, Raspberry Pi, and predictive analytics.
+### 💬 Quantum Chat AI Workspace  
+A collaborative AI-driven chat workspace that enables intelligent, multi-threaded discussions.  
+- 🔗 **Live Demo:** [quantum-chat-frontend.onrender.com](https://quantum-chat-frontend.onrender.com/login)  
+- 💻 **GitHub Repository:** [rohit02k5/QUANTUM-CHAT-AI-WORKSPACE](https://github.com/rohit02k5/QUANTUM-CHAT-AI-WORKSPACE)
 
 ---
 
