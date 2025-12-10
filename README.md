@@ -62,12 +62,13 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohit02k5&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit02k5&theme=radical" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohit02k5&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rohit02k5&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit02k5&layout=compact&theme=radical" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit02k5&layout=compact&theme=radical" />
+
 </p>
 
 
